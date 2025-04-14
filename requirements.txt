@@ -1,0 +1,6 @@
+streamlit~=1.44.1
+more-itertools~=10.6.0
+openai~=1.68.2
+ffmpeg-python~=0.2.0
+python-dotenv~=0.21.0
+deepgram-sdk
